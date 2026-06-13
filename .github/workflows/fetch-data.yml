@@ -37,8 +37,12 @@ jobs:
           git push
 
       - name: Run Supabase Sync Script
-        if: secrets.SUPABASE_URL != '' && secrets.SUPABASE_KEY != ''
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-        run: npm run sync
+        run: |
+          if [ -n "$SUPABASE_URL" ] && [ -n "$SUPABASE_KEY" ]; then
+            npm run sync
+          else
+            echo "Supabase credentials missing. Skipping sync."
+          fi
