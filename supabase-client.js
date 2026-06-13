@@ -1,4 +1,10 @@
 import { createClient } from '@supabase/supabase-js';
+import fs from 'fs';
+
+// Load environment variables from .env file if it exists (Node 20.12.0+)
+if (fs.existsSync('.env')) {
+  process.loadEnvFile();
+}
 
 const supabaseUrl = process.env.SUPABASE_URL;
 const supabaseKey = process.env.SUPABASE_KEY;

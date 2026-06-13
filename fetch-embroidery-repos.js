@@ -2,6 +2,11 @@ import fs from 'fs';
 import path from 'path';
 import { fetchRepoData } from './github-fetcher.js';
 
+// Load environment variables from .env file if it exists (Node 20.12.0+)
+if (fs.existsSync('.env')) {
+  process.loadEnvFile();
+}
+
 // The 4 open-source embroidery projects
 const EMBROIDERY_REPOS = [
   'https://github.com/inkstitch/inkstitch',
