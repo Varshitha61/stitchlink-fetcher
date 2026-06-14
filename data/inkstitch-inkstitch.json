@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T09:00:18.842Z",
+  "fetchedAt": "2026-06-14T04:12:33.575Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
@@ -15,7 +15,7 @@
     },
     "defaultBranch": "main",
     "forks": 236,
-    "openIssues": 224,
+    "openIssues": 225,
     "homepage": "https://inkstitch.org"
   },
   "readme": {

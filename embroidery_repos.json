@@ -1,6 +1,6 @@
 [
   {
-    "fetchedAt": "2026-06-13T09:00:18.842Z",
+    "fetchedAt": "2026-06-14T04:12:33.575Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
@@ -16,7 +16,7 @@
       },
       "defaultBranch": "main",
       "forks": 236,
-      "openIssues": 224,
+      "openIssues": 225,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -5705,7 +5705,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-13T09:00:19.452Z",
+    "fetchedAt": "2026-06-14T04:12:34.532Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
@@ -8482,7 +8482,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-13T09:00:20.074Z",
+    "fetchedAt": "2026-06-14T04:12:35.457Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
@@ -10125,7 +10125,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-13T09:00:20.554Z",
+    "fetchedAt": "2026-06-14T04:12:36.256Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
