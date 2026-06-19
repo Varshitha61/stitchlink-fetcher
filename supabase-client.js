@@ -6,11 +6,11 @@ if (fs.existsSync('.env')) {
   process.loadEnvFile();
 }
 
-const supabaseUrl = process.env.SUPABASE_URL;
-const supabaseKey = process.env.SUPABASE_KEY;
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY;
 
 if (!supabaseUrl || !supabaseKey) {
-  console.warn('[Warning] SUPABASE_URL or SUPABASE_KEY is not defined in your environment variables.');
+  console.warn('[Warning] NEXT_PUBLIC_SUPABASE_URL or NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY is not defined in your environment variables.');
   console.warn('          Make sure to set these to connect to your Supabase project.');
 }
 
@@ -28,8 +28,8 @@ export function assertSupabaseConfig() {
     throw new Error(
       'Missing Supabase configuration.\n' +
       'Please ensure you define the following environment variables:\n' +
-      '  - SUPABASE_URL\n' +
-      '  - SUPABASE_KEY (anon or service role key)\n' +
+      '  - NEXT_PUBLIC_SUPABASE_URL\n' +
+      '  - NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY\n' +
       'You can define these in a .env file and execute node with the --env-file flag, e.g.:\n' +
       '  node --env-file=.env sync-to-supabase.js'
     );
