@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T03:46:19.402Z",
+  "fetchedAt": "2026-06-19T10:41:58.677Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
@@ -7,7 +7,7 @@
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
     "stars": 1277,
     "language": "Python",
-    "lastUpdated": "2026-06-17T14:35:04Z",
+    "lastUpdated": "2026-06-19T10:41:41Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
@@ -15,7 +15,7 @@
     },
     "defaultBranch": "main",
     "forks": 236,
-    "openIssues": 217,
+    "openIssues": 218,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
@@ -1240,7 +1240,7 @@
     {
       "path": "lib/elements/element.py",
       "type": "file",
-      "size": 31257,
+      "size": 32118,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/element.py"
     },
     {
@@ -1252,7 +1252,7 @@
     {
       "path": "lib/elements/fill_stitch.py",
       "type": "file",
-      "size": 57739,
+      "size": 57395,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/fill_stitch.py"
     },
     {
@@ -1270,13 +1270,13 @@
     {
       "path": "lib/elements/satin_column.py",
       "type": "file",
-      "size": 88350,
+      "size": 88690,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/satin_column.py"
     },
     {
       "path": "lib/elements/stroke.py",
       "type": "file",
-      "size": 34048,
+      "size": 32947,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/stroke.py"
     },
     {
@@ -2182,13 +2182,13 @@
     {
       "path": "lib/stitches/guided_fill.py",
       "type": "file",
-      "size": 33216,
+      "size": 21753,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/guided_fill.py"
     },
     {
       "path": "lib/stitches/linear_gradient_fill.py",
       "type": "file",
-      "size": 14610,
+      "size": 14613,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/linear_gradient_fill.py"
     },
     {
@@ -2200,19 +2200,19 @@
     {
       "path": "lib/stitches/ripple_stitch.py",
       "type": "file",
-      "size": 33175,
+      "size": 33180,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/ripple_stitch.py"
     },
     {
       "path": "lib/stitches/running_stitch.py",
       "type": "file",
-      "size": 21700,
+      "size": 23176,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/running_stitch.py"
     },
     {
       "path": "lib/stitches/tartan_fill.py",
       "type": "file",
-      "size": 31816,
+      "size": 31819,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/tartan_fill.py"
     },
     {
@@ -5548,7 +5548,7 @@
     {
       "path": "translations/messages_de_DE.po",
       "type": "file",
-      "size": 366001,
+      "size": 366221,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_de_DE.po"
     },
     {
