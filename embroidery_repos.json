@@ -1,6 +1,6 @@
 [
   {
-    "fetchedAt": "2026-06-21T05:08:36.411Z",
+    "fetchedAt": "2026-06-23T04:49:58.568Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
@@ -8,7 +8,7 @@
       "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
       "stars": 1280,
       "language": "Python",
-      "lastUpdated": "2026-06-21T04:25:52Z",
+      "lastUpdated": "2026-06-23T03:48:03Z",
       "license": {
         "name": "GNU General Public License v3.0",
         "spdxId": "GPL-3.0",
@@ -16,7 +16,7 @@
       },
       "defaultBranch": "main",
       "forks": 236,
-      "openIssues": 216,
+      "openIssues": 217,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -5579,7 +5579,7 @@
       {
         "path": "translations/messages_fr_FR.po",
         "type": "file",
-        "size": 374551,
+        "size": 375004,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_fr_FR.po"
       },
       {
@@ -5705,7 +5705,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-21T05:08:37.406Z",
+    "fetchedAt": "2026-06-23T04:49:59.495Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
@@ -8482,13 +8482,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-21T05:08:38.127Z",
+    "fetchedAt": "2026-06-23T04:50:00.330Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
       "owner": "CreativeInquiry",
       "description": "Embroidery Library for Processing",
-      "stars": 580,
+      "stars": 579,
       "language": "Java",
       "lastUpdated": "2025-06-13T05:05:44Z",
       "license": {
@@ -10125,7 +10125,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-21T05:08:38.761Z",
+    "fetchedAt": "2026-06-23T04:50:01.133Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
