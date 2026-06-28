@@ -1,14 +1,14 @@
 [
   {
-    "fetchedAt": "2026-06-23T04:49:58.568Z",
+    "fetchedAt": "2026-06-28T04:43:14.570Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
       "owner": "inkstitch",
       "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-      "stars": 1280,
+      "stars": 1282,
       "language": "Python",
-      "lastUpdated": "2026-06-23T03:48:03Z",
+      "lastUpdated": "2026-06-27T08:37:24Z",
       "license": {
         "name": "GNU General Public License v3.0",
         "spdxId": "GPL-3.0",
@@ -16,7 +16,7 @@
       },
       "defaultBranch": "main",
       "forks": 236,
-      "openIssues": 217,
+      "openIssues": 221,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -2183,7 +2183,7 @@
       {
         "path": "lib/stitches/guided_fill.py",
         "type": "file",
-        "size": 19893,
+        "size": 20360,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/guided_fill.py"
       },
       {
@@ -2219,7 +2219,7 @@
       {
         "path": "lib/stitches/tatami_fill.py",
         "type": "file",
-        "size": 37254,
+        "size": 37242,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/tatami_fill.py"
       },
       {
@@ -5549,7 +5549,7 @@
       {
         "path": "translations/messages_de_DE.po",
         "type": "file",
-        "size": 366980,
+        "size": 367485,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_de_DE.po"
       },
       {
@@ -5705,7 +5705,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-23T04:49:59.495Z",
+    "fetchedAt": "2026-06-28T04:43:15.206Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
@@ -8482,7 +8482,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-23T04:50:00.330Z",
+    "fetchedAt": "2026-06-28T04:43:15.930Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
@@ -10125,13 +10125,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-06-23T04:50:01.133Z",
+    "fetchedAt": "2026-06-28T04:43:16.408Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
       "owner": "F33RNI",
       "description": "Open source embroidery machine project",
-      "stars": 105,
+      "stars": 106,
       "language": "C++",
       "lastUpdated": "2022-08-14T11:26:49Z",
       "license": {
