@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-06-28T04:43:14.570Z",
+  "fetchedAt": "2026-07-05T04:13:03.497Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
     "owner": "inkstitch",
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-    "stars": 1282,
+    "stars": 1284,
     "language": "Python",
-    "lastUpdated": "2026-06-27T08:37:24Z",
+    "lastUpdated": "2026-07-04T19:03:03Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
       "url": "https://api.github.com/licenses/gpl-3.0"
     },
     "defaultBranch": "main",
-    "forks": 236,
-    "openIssues": 221,
+    "forks": 235,
+    "openIssues": 220,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
@@ -1240,7 +1240,7 @@
     {
       "path": "lib/elements/element.py",
       "type": "file",
-      "size": 32118,
+      "size": 32224,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/element.py"
     },
     {
@@ -1672,7 +1672,7 @@
     {
       "path": "lib/extensions/satin_multicolor.py",
       "type": "file",
-      "size": 1802,
+      "size": 1811,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/satin_multicolor.py"
     },
     {
@@ -1720,7 +1720,7 @@
     {
       "path": "lib/extensions/stitch_plan_preview.py",
       "type": "file",
-      "size": 9264,
+      "size": 9390,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/stitch_plan_preview.py"
     },
     {
@@ -2278,7 +2278,7 @@
     {
       "path": "lib/svg/tags.py",
       "type": "file",
-      "size": 6038,
+      "size": 6133,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/svg/tags.py"
     },
     {
@@ -5578,7 +5578,7 @@
     {
       "path": "translations/messages_fr_FR.po",
       "type": "file",
-      "size": 375004,
+      "size": 375007,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_fr_FR.po"
     },
     {
@@ -5614,7 +5614,7 @@
     {
       "path": "translations/messages_nl_NL.po",
       "type": "file",
-      "size": 358585,
+      "size": 360123,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_nl_NL.po"
     },
     {
