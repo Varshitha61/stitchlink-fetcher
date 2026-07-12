@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-05T04:13:05.314Z",
+  "fetchedAt": "2026-07-12T03:42:09.831Z",
   "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
   "metadata": {
     "name": "OpenEmbroidery",
     "owner": "F33RNI",
     "description": "Open source embroidery machine project",
-    "stars": 108,
+    "stars": 111,
     "language": "C++",
     "lastUpdated": "2022-08-14T11:26:49Z",
     "license": {
