@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-02T03:40:24.883Z",
+  "fetchedAt": "2026-08-09T02:20:23.037Z",
   "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
   "metadata": {
     "name": "Embroidermodder",
     "owner": "Embroidermodder",
     "description": "Free machine embroidery software supporting a variety of formats.",
-    "stars": 624,
+    "stars": 625,
     "language": "C",
-    "lastUpdated": "2026-07-22T23:44:50Z",
+    "lastUpdated": "2026-08-03T05:31:39Z",
     "license": {
       "name": "zlib License",
       "spdxId": "Zlib",

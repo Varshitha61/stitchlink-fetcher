@@ -1,14 +1,14 @@
 [
   {
-    "fetchedAt": "2026-08-02T03:40:24.290Z",
+    "fetchedAt": "2026-08-09T02:20:22.256Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
       "owner": "inkstitch",
       "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-      "stars": 1300,
+      "stars": 1307,
       "language": "Python",
-      "lastUpdated": "2026-07-31T10:27:59Z",
+      "lastUpdated": "2026-08-07T17:00:49Z",
       "license": {
         "name": "GNU General Public License v3.0",
         "spdxId": "GPL-3.0",
@@ -16,7 +16,7 @@
       },
       "defaultBranch": "main",
       "forks": 241,
-      "openIssues": 221,
+      "openIssues": 225,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -5705,15 +5705,15 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-02T03:40:24.883Z",
+    "fetchedAt": "2026-08-09T02:20:23.037Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
       "owner": "Embroidermodder",
       "description": "Free machine embroidery software supporting a variety of formats.",
-      "stars": 624,
+      "stars": 625,
       "language": "C",
-      "lastUpdated": "2026-07-22T23:44:50Z",
+      "lastUpdated": "2026-08-03T05:31:39Z",
       "license": {
         "name": "zlib License",
         "spdxId": "Zlib",
@@ -8482,13 +8482,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-02T03:40:25.665Z",
+    "fetchedAt": "2026-08-09T02:20:23.688Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
       "owner": "CreativeInquiry",
       "description": "Embroidery Library for Processing",
-      "stars": 588,
+      "stars": 589,
       "language": "Java",
       "lastUpdated": "2025-06-13T05:05:44Z",
       "license": {
@@ -10125,7 +10125,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-02T03:40:26.144Z",
+    "fetchedAt": "2026-08-09T02:20:24.232Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
