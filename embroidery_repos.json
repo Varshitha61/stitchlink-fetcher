@@ -1,22 +1,22 @@
 [
   {
-    "fetchedAt": "2026-08-09T02:20:22.256Z",
+    "fetchedAt": "2026-08-16T01:49:57.887Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
       "owner": "inkstitch",
       "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-      "stars": 1307,
+      "stars": 1313,
       "language": "Python",
-      "lastUpdated": "2026-08-07T17:00:49Z",
+      "lastUpdated": "2026-08-15T23:10:03Z",
       "license": {
         "name": "GNU General Public License v3.0",
         "spdxId": "GPL-3.0",
         "url": "https://api.github.com/licenses/gpl-3.0"
       },
       "defaultBranch": "main",
-      "forks": 241,
-      "openIssues": 225,
+      "forks": 242,
+      "openIssues": 229,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -5705,13 +5705,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-09T02:20:23.037Z",
+    "fetchedAt": "2026-08-16T01:49:58.434Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
       "owner": "Embroidermodder",
       "description": "Free machine embroidery software supporting a variety of formats.",
-      "stars": 625,
+      "stars": 628,
       "language": "C",
       "lastUpdated": "2026-08-03T05:31:39Z",
       "license": {
@@ -5720,7 +5720,7 @@
         "url": "https://api.github.com/licenses/zlib"
       },
       "defaultBranch": "main",
-      "forks": 149,
+      "forks": 150,
       "openIssues": 25,
       "homepage": "https://www.libembroidery.org"
     },
@@ -8482,13 +8482,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-09T02:20:23.688Z",
+    "fetchedAt": "2026-08-16T01:49:59.106Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
       "owner": "CreativeInquiry",
       "description": "Embroidery Library for Processing",
-      "stars": 589,
+      "stars": 591,
       "language": "Java",
       "lastUpdated": "2025-06-13T05:05:44Z",
       "license": {
@@ -8497,7 +8497,7 @@
         "url": null
       },
       "defaultBranch": "master",
-      "forks": 35,
+      "forks": 36,
       "openIssues": 29,
       "homepage": ""
     },
@@ -10125,13 +10125,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-08-09T02:20:24.232Z",
+    "fetchedAt": "2026-08-16T01:49:59.623Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
       "owner": "F33RNI",
       "description": "Open source embroidery machine project",
-      "stars": 111,
+      "stars": 113,
       "language": "C++",
       "lastUpdated": "2022-08-14T11:26:49Z",
       "license": {
@@ -10140,7 +10140,7 @@
         "url": "https://api.github.com/licenses/apache-2.0"
       },
       "defaultBranch": "main",
-      "forks": 10,
+      "forks": 11,
       "openIssues": 0,
       "homepage": ""
     },

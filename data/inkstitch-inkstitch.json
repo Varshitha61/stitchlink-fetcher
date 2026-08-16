@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-09T02:20:22.256Z",
+  "fetchedAt": "2026-08-16T01:49:57.887Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
     "owner": "inkstitch",
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-    "stars": 1307,
+    "stars": 1313,
     "language": "Python",
-    "lastUpdated": "2026-08-07T17:00:49Z",
+    "lastUpdated": "2026-08-15T23:10:03Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
       "url": "https://api.github.com/licenses/gpl-3.0"
     },
     "defaultBranch": "main",
-    "forks": 241,
-    "openIssues": 225,
+    "forks": 242,
+    "openIssues": 229,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
