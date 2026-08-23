@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-16T01:49:57.887Z",
+  "fetchedAt": "2026-08-23T01:52:05.810Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
     "owner": "inkstitch",
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-    "stars": 1313,
+    "stars": 1318,
     "language": "Python",
-    "lastUpdated": "2026-08-15T23:10:03Z",
+    "lastUpdated": "2026-08-23T00:06:16Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
       "url": "https://api.github.com/licenses/gpl-3.0"
     },
     "defaultBranch": "main",
-    "forks": 242,
-    "openIssues": 229,
+    "forks": 244,
+    "openIssues": 236,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
@@ -1234,13 +1234,13 @@
     {
       "path": "lib/elements/clone.py",
       "type": "file",
-      "size": 14280,
+      "size": 14287,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/clone.py"
     },
     {
       "path": "lib/elements/element.py",
       "type": "file",
-      "size": 32335,
+      "size": 34477,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/element.py"
     },
     {
@@ -1270,7 +1270,7 @@
     {
       "path": "lib/elements/satin_column.py",
       "type": "file",
-      "size": 88690,
+      "size": 90330,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/satin_column.py"
     },
     {
@@ -1342,7 +1342,7 @@
     {
       "path": "lib/extensions/auto_run.py",
       "type": "file",
-      "size": 2810,
+      "size": 2788,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/auto_run.py"
     },
     {
@@ -1366,7 +1366,7 @@
     {
       "path": "lib/extensions/break_apart.py",
       "type": "file",
-      "size": 7014,
+      "size": 6994,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/break_apart.py"
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "path": "lib/extensions/cut_satin.py",
       "type": "file",
-      "size": 5388,
+      "size": 5401,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/cut_satin.py"
     },
     {
@@ -2110,13 +2110,13 @@
     {
       "path": "lib/stitch_plan/stitch.py",
       "type": "file",
-      "size": 6941,
+      "size": 7173,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitch_plan/stitch.py"
     },
     {
       "path": "lib/stitch_plan/stitch_group.py",
       "type": "file",
-      "size": 3528,
+      "size": 4517,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitch_plan/stitch_group.py"
     },
     {
@@ -2146,7 +2146,7 @@
     {
       "path": "lib/stitches/auto_satin.py",
       "type": "file",
-      "size": 23918,
+      "size": 24613,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/auto_satin.py"
     },
     {
@@ -2206,7 +2206,7 @@
     {
       "path": "lib/stitches/running_stitch.py",
       "type": "file",
-      "size": 24561,
+      "size": 24605,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/stitches/running_stitch.py"
     },
     {
@@ -2398,7 +2398,7 @@
     {
       "path": "lib/utils/geometry.py",
       "type": "file",
-      "size": 11712,
+      "size": 14131,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/utils/geometry.py"
     },
     {
@@ -2464,7 +2464,7 @@
     {
       "path": "lib/utils/smoothing.py",
       "type": "file",
-      "size": 2052,
+      "size": 2092,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/utils/smoothing.py"
     },
     {
