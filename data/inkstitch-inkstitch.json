@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-08-23T01:52:05.810Z",
+  "fetchedAt": "2026-08-30T05:09:39.321Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
     "owner": "inkstitch",
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-    "stars": 1318,
+    "stars": 1340,
     "language": "Python",
-    "lastUpdated": "2026-08-23T00:06:16Z",
+    "lastUpdated": "2026-08-28T22:31:32Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
       "url": "https://api.github.com/licenses/gpl-3.0"
     },
     "defaultBranch": "main",
-    "forks": 244,
-    "openIssues": 236,
+    "forks": 245,
+    "openIssues": 237,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
@@ -1270,7 +1270,7 @@
     {
       "path": "lib/elements/satin_column.py",
       "type": "file",
-      "size": 90330,
+      "size": 90722,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/satin_column.py"
     },
     {
