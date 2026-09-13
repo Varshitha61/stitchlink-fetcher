@@ -1,14 +1,14 @@
 [
   {
-    "fetchedAt": "2026-09-06T04:20:24.515Z",
+    "fetchedAt": "2026-09-13T04:34:16.516Z",
     "sourceUrl": "https://github.com/inkstitch/inkstitch",
     "metadata": {
       "name": "inkstitch",
       "owner": "inkstitch",
       "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-      "stars": 1343,
+      "stars": 1346,
       "language": "Python",
-      "lastUpdated": "2026-09-06T03:08:15Z",
+      "lastUpdated": "2026-09-12T10:10:04Z",
       "license": {
         "name": "GNU General Public License v3.0",
         "spdxId": "GPL-3.0",
@@ -16,7 +16,7 @@
       },
       "defaultBranch": "main",
       "forks": 246,
-      "openIssues": 238,
+      "openIssues": 241,
       "homepage": "https://inkstitch.org"
     },
     "readme": {
@@ -1269,10 +1269,10 @@
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/marker.py"
       },
       {
-        "path": "lib/elements/satin_column.py",
-        "type": "file",
-        "size": 90722,
-        "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/satin_column.py"
+        "path": "lib/elements/satin_column",
+        "type": "dir",
+        "size": 0,
+        "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/elements/satin_column"
       },
       {
         "path": "lib/elements/stroke.py",
@@ -1619,7 +1619,7 @@
       {
         "path": "lib/extensions/params.py",
         "type": "file",
-        "size": 33988,
+        "size": 33598,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/params.py"
       },
       {
@@ -1709,13 +1709,13 @@
       {
         "path": "lib/extensions/sew_stack_editor.py",
         "type": "file",
-        "size": 23243,
+        "size": 22865,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/sew_stack_editor.py"
       },
       {
         "path": "lib/extensions/simulator.py",
         "type": "file",
-        "size": 2650,
+        "size": 2601,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/simulator.py"
       },
       {
@@ -1811,7 +1811,7 @@
       {
         "path": "lib/gui/__init__.py",
         "type": "file",
-        "size": 302,
+        "size": 263,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/gui/__init__.py"
       },
       {
@@ -2483,7 +2483,7 @@
       {
         "path": "lib/utils/threading.py",
         "type": "file",
-        "size": 652,
+        "size": 618,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/utils/threading.py"
       },
       {
@@ -3687,6 +3687,12 @@
         "url": "https://github.com/inkstitch/inkstitch/blob/main/tests/test_output.py"
       },
       {
+        "path": "tests/test_threading.py",
+        "type": "file",
+        "size": 3214,
+        "url": "https://github.com/inkstitch/inkstitch/blob/main/tests/test_threading.py"
+      },
+      {
         "path": "tests/test_threads_color.py",
         "type": "file",
         "size": 4252,
@@ -3695,7 +3701,7 @@
       {
         "path": "tests/utils.py",
         "type": "file",
-        "size": 168,
+        "size": 353,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/tests/utils.py"
       },
       {
@@ -5519,193 +5525,193 @@
       {
         "path": "translations/messages_af_ZA.po",
         "type": "file",
-        "size": 260561,
+        "size": 262836,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_af_ZA.po"
       },
       {
         "path": "translations/messages_ar_SA.po",
         "type": "file",
-        "size": 260643,
+        "size": 262918,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ar_SA.po"
       },
       {
         "path": "translations/messages_ca_ES.po",
         "type": "file",
-        "size": 260559,
+        "size": 262834,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ca_ES.po"
       },
       {
         "path": "translations/messages_cs_CZ.po",
         "type": "file",
-        "size": 345323,
+        "size": 347513,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_cs_CZ.po"
       },
       {
         "path": "translations/messages_da_DK.po",
         "type": "file",
-        "size": 261905,
+        "size": 264180,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_da_DK.po"
       },
       {
         "path": "translations/messages_de_DE.po",
         "type": "file",
-        "size": 369391,
+        "size": 371565,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_de_DE.po"
       },
       {
         "path": "translations/messages_el_GR.po",
         "type": "file",
-        "size": 281366,
+        "size": 283641,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_el_GR.po"
       },
       {
         "path": "translations/messages_en_US.po",
         "type": "file",
-        "size": 260559,
+        "size": 262834,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_en_US.po"
       },
       {
         "path": "translations/messages_es_ES.po",
         "type": "file",
-        "size": 351257,
+        "size": 353420,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_es_ES.po"
       },
       {
         "path": "translations/messages_fi_FI.po",
         "type": "file",
-        "size": 266776,
+        "size": 269051,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_fi_FI.po"
       },
       {
         "path": "translations/messages_fr_FR.po",
         "type": "file",
-        "size": 376884,
+        "size": 379053,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_fr_FR.po"
       },
       {
         "path": "translations/messages_he_IL.po",
         "type": "file",
-        "size": 260608,
+        "size": 262850,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_he_IL.po"
       },
       {
         "path": "translations/messages_hu_HU.po",
         "type": "file",
-        "size": 280171,
+        "size": 282446,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_hu_HU.po"
       },
       {
         "path": "translations/messages_it_IT.po",
         "type": "file",
-        "size": 298262,
+        "size": 300537,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_it_IT.po"
       },
       {
         "path": "translations/messages_ja_JP.po",
         "type": "file",
-        "size": 295599,
+        "size": 297874,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ja_JP.po"
       },
       {
         "path": "translations/messages_ko_KR.po",
         "type": "file",
-        "size": 260604,
+        "size": 262879,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ko_KR.po"
       },
       {
         "path": "translations/messages_nl_NL.po",
         "type": "file",
-        "size": 361501,
+        "size": 363678,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_nl_NL.po"
       },
       {
         "path": "translations/messages_no_NO.po",
         "type": "file",
-        "size": 264596,
+        "size": 266871,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_no_NO.po"
       },
       {
         "path": "translations/messages_pl_PL.po",
         "type": "file",
-        "size": 267744,
+        "size": 270019,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_pl_PL.po"
       },
       {
         "path": "translations/messages_pt_BR.po",
         "type": "file",
-        "size": 271693,
+        "size": 273968,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_pt_BR.po"
       },
       {
         "path": "translations/messages_pt_PT.po",
         "type": "file",
-        "size": 262327,
+        "size": 264602,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_pt_PT.po"
       },
       {
         "path": "translations/messages_ro_RO.po",
         "type": "file",
-        "size": 260926,
+        "size": 263201,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ro_RO.po"
       },
       {
         "path": "translations/messages_ru_RU.po",
         "type": "file",
-        "size": 295593,
+        "size": 297868,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_ru_RU.po"
       },
       {
         "path": "translations/messages_sr_SP.po",
         "type": "file",
-        "size": 260644,
+        "size": 262919,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_sr_SP.po"
       },
       {
         "path": "translations/messages_sv_SE.po",
         "type": "file",
-        "size": 263817,
+        "size": 266092,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_sv_SE.po"
       },
       {
         "path": "translations/messages_tr_TR.po",
         "type": "file",
-        "size": 262257,
+        "size": 264532,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_tr_TR.po"
       },
       {
         "path": "translations/messages_uk_UA.po",
         "type": "file",
-        "size": 285235,
+        "size": 287510,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_uk_UA.po"
       },
       {
         "path": "translations/messages_vi_VN.po",
         "type": "file",
-        "size": 260555,
+        "size": 262830,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_vi_VN.po"
       },
       {
         "path": "translations/messages_zh_CN.po",
         "type": "file",
-        "size": 288577,
+        "size": 290852,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_zh_CN.po"
       },
       {
         "path": "translations/messages_zh_TW.po",
         "type": "file",
-        "size": 260567,
+        "size": 262842,
         "url": "https://github.com/inkstitch/inkstitch/blob/main/translations/messages_zh_TW.po"
       }
     ]
   },
   {
-    "fetchedAt": "2026-09-06T04:20:25.179Z",
+    "fetchedAt": "2026-09-13T04:34:17.100Z",
     "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
     "metadata": {
       "name": "Embroidermodder",
       "owner": "Embroidermodder",
       "description": "Free machine embroidery software supporting a variety of formats.",
-      "stars": 631,
+      "stars": 632,
       "language": "C",
       "lastUpdated": "2026-08-03T05:31:39Z",
       "license": {
@@ -8476,13 +8482,13 @@
     ]
   },
   {
-    "fetchedAt": "2026-09-06T04:20:25.834Z",
+    "fetchedAt": "2026-09-13T04:34:17.806Z",
     "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
     "metadata": {
       "name": "PEmbroider",
       "owner": "CreativeInquiry",
       "description": "Embroidery Library for Processing",
-      "stars": 598,
+      "stars": 599,
       "language": "Java",
       "lastUpdated": "2025-06-13T05:05:44Z",
       "license": {
@@ -10119,7 +10125,7 @@
     ]
   },
   {
-    "fetchedAt": "2026-09-06T04:20:26.485Z",
+    "fetchedAt": "2026-09-13T04:34:18.232Z",
     "sourceUrl": "https://github.com/F33RNI/OpenEmbroidery",
     "metadata": {
       "name": "OpenEmbroidery",
