@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T05:06:31.643Z",
+  "fetchedAt": "2026-10-04T05:37:58.378Z",
   "sourceUrl": "https://github.com/Embroidermodder/Embroidermodder",
   "metadata": {
     "name": "Embroidermodder",
@@ -14,7 +14,7 @@
       "url": "https://api.github.com/licenses/zlib"
     },
     "defaultBranch": "main",
-    "forks": 149,
+    "forks": 148,
     "openIssues": 26,
     "homepage": "https://www.libembroidery.org"
   },
