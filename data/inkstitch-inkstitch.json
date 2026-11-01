@@ -1,21 +1,21 @@
 {
-  "fetchedAt": "2026-10-25T04:25:09.007Z",
+  "fetchedAt": "2026-11-01T05:46:26.309Z",
   "sourceUrl": "https://github.com/inkstitch/inkstitch",
   "metadata": {
     "name": "inkstitch",
     "owner": "inkstitch",
     "description": "Ink/Stitch: an Inkscape extension for machine embroidery design",
-    "stars": 1372,
+    "stars": 1380,
     "language": "Python",
-    "lastUpdated": "2026-10-24T22:37:28Z",
+    "lastUpdated": "2026-10-30T10:43:06Z",
     "license": {
       "name": "GNU General Public License v3.0",
       "spdxId": "GPL-3.0",
       "url": "https://api.github.com/licenses/gpl-3.0"
     },
     "defaultBranch": "main",
-    "forks": 257,
-    "openIssues": 239,
+    "forks": 258,
+    "openIssues": 246,
     "homepage": "https://inkstitch.org"
   },
   "readme": {
@@ -1660,7 +1660,7 @@
     {
       "path": "lib/extensions/reorder.py",
       "type": "file",
-      "size": 997,
+      "size": 2152,
       "url": "https://github.com/inkstitch/inkstitch/blob/main/lib/extensions/reorder.py"
     },
     {
