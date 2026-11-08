@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-01T05:46:27.764Z",
+  "fetchedAt": "2026-11-08T05:47:15.340Z",
   "sourceUrl": "https://github.com/CreativeInquiry/PEmbroider",
   "metadata": {
     "name": "PEmbroider",
     "owner": "CreativeInquiry",
     "description": "Embroidery Library for Processing",
-    "stars": 608,
+    "stars": 612,
     "language": "Java",
     "lastUpdated": "2025-06-13T05:05:44Z",
     "license": {
@@ -14,7 +14,7 @@
       "url": null
     },
     "defaultBranch": "master",
-    "forks": 37,
+    "forks": 38,
     "openIssues": 29,
     "homepage": ""
   },
